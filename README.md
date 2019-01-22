@@ -5,7 +5,7 @@
 ## Assignment: #37
 
 ### Accompanying webpage
-http://sagarbharadwaj.me/Low-Rate-TCP-DoS-Attack/
+http://sagarb-97.github.io/Low-Rate-TCP-DoS-Attack/
 
 ### Overview
 DoS attacks can be detected by counter-DoS mechanisms such as CouldFlare. Here, we simulate a 'Low-Rate TCP targetted DoS attack' which is harder to detect as compared to the traditional DoS attacks. 
